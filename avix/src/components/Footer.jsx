@@ -1,8 +1,8 @@
 import logo from "../assets/images/logo.svg"
-import instagram from "../assets/images/instagram.svg"
-import facebook from "../assets/images/facebook.svg"
-import youtube from "../assets/images/youtube.svg"
-import x from "../assets/images/x.svg"
+import instagram from "../assets/images/Instagram.svg"
+import facebook from "../assets/images/Facebook.svg"
+import youtube from "../assets/images/Youtube.svg"
+import x from "../assets/images/X.svg"
 
 function Footer() {
   return (
